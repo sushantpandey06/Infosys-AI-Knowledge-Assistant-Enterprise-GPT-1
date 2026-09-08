@@ -5,6 +5,12 @@
 An enterprise document-based AI chatbot built using **Retrieval-Augmented Generation (RAG)**.  
 The system allows users to ask questions about enterprise documents and receive grounded answers generated using relevant information retrieved from the document knowledge base.
 
+## Live Demo
+https://infosys-ai-knowledge-assistant-ente-beta.vercel.app/
+
+## Demo Video
+https://drive.google.com/file/d/1t1_PWV9elm3Ak14ZMsm3nmaeuVrU6sb6/view?usp=sharing
+
 ---
 ## 👥 Project Team
 
@@ -25,13 +31,6 @@ This project was developed collaboratively by a cross-functional team covering p
 - **Deployment — Shirish Srivastava & Rohan:** Handled deployment-related configuration and application rollout.
 
 ---
-
-## Live Demo
-https://infosys-ai-knowledge-assistant-ente-beta.vercel.app/
-
-## Demo Video
-https://drive.google.com/file/d/1t1_PWV9elm3Ak14ZMsm3nmaeuVrU6sb6/view?usp=sharing
-
 
 # 🎯 Project Objectives
 
