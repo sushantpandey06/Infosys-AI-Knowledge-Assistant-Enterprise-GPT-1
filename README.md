@@ -26,6 +26,11 @@ This project was developed collaboratively by a cross-functional team covering p
 
 ---
 
+## Live Demo
+https://infosys-ai-knowledge-assistant-ente-beta.vercel.app/
+
+## Demo Video
+https://drive.google.com/file/d/1t1_PWV9elm3Ak14ZMsm3nmaeuVrU6sb6/view?usp=sharing
 
 
 # 🎯 Project Objectives
